@@ -1,0 +1,9 @@
+np.array
+np.array.max
+np.array.min
+np.array.mean
+np.array.sum
+np.zeros
+np.ones
+np.eye
+np.linspace
